@@ -1,0 +1,16 @@
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp5.0\UnityStudy.exe
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp5.0\UnityStudy.deps.json
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp5.0\UnityStudy.runtimeconfig.json
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp5.0\UnityStudy.runtimeconfig.dev.json
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp5.0\UnityStudy.dll
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp5.0\ref\UnityStudy.dll
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp5.0\UnityStudy.pdb
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.csproj.AssemblyReference.cache
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.AssemblyInfoInputs.cache
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.AssemblyInfo.cs
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.csproj.CoreCompileInputs.cache
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.dll
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\ref\UnityStudy.dll
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.pdb
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp5.0\UnityStudy.genruntimeconfig.cache

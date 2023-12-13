@@ -1,0 +1,12 @@
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp2.1\UnityStudy.deps.json
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp2.1\UnityStudy.runtimeconfig.json
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp2.1\UnityStudy.runtimeconfig.dev.json
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp2.1\UnityStudy.dll
+C:\work\UnityStudy\UnityStudy\UnityStudy\bin\Debug\netcoreapp2.1\UnityStudy.pdb
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp2.1\UnityStudy.csproj.AssemblyReference.cache
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp2.1\UnityStudy.AssemblyInfoInputs.cache
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp2.1\UnityStudy.AssemblyInfo.cs
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp2.1\UnityStudy.csproj.CoreCompileInputs.cache
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp2.1\UnityStudy.dll
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp2.1\UnityStudy.pdb
+C:\work\UnityStudy\UnityStudy\UnityStudy\obj\Debug\netcoreapp2.1\UnityStudy.genruntimeconfig.cache
